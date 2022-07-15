@@ -1,0 +1,11 @@
+{
+  "name": "chart.js",
+  "version": "1.0.0",
+  "description": "testing chartjs",
+  "main": "index.js",
+  "author": "mrtuxa",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^3.8.0"
+  }
+}
